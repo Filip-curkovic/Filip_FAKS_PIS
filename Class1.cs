@@ -8,5 +8,7 @@ namespace ConsoleApp1
 {
     internal class Class1
     {
+
+        //nova nova promjena
     }
 }
