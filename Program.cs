@@ -5,4 +5,4 @@ Console.WriteLine("Nesto nov");
 
 Console.WriteLine("Nesto novo");
 // neki komentar
-
+//popravljeno
